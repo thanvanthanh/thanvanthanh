@@ -7,4 +7,4 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanvanthanh&show_icons=true&theme=radical)
   
-  ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
+  ![snake svg](https://github.com/thanvanthanh/thanvanthanh/blob/main/github-contribution-grid-snake.svg)
